@@ -5,8 +5,8 @@ from twilio.rest import Client
 API_KEY =os.environ.get("API_KEY")
 CNT = 4
 parameters= {
-    "lat" : 8.247190,
-    "lon" : 34.591599,
+    "lat" : 32.726601,
+    "lon" : 74.857025,
     "appid" : API_KEY,
     "cnt" : CNT
 }
